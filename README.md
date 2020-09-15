@@ -1,7 +1,7 @@
 TCPDI
 =====
 
-Composer ready [TCPDI](https://github.com/pauln/tcpdi).
+Composer ready [TCPDI](https://github.com/pauln/tcpdi), forked from [kulbakin](https://github.com/kulbakin/tcpdi).
 
 PDF importer for [TCPDF](http://www.tcpdf.org/), based on [FPDI](http://www.setasign.de/products/pdf-php-solutions/fpdi/).
 Requires [pauln/tcpdi_parser](https://github.com/pauln/tcpdi_parser) and [FPDF_TPL](http://www.setasign.de/products/pdf-php-solutions/fpdi/downloads/)
@@ -13,7 +13,7 @@ Installation
 Link package in composer.json, e.g.
 
 ```sh
-composer require Mouke/tcpdi
+composer require mouke/tcpdi
 ```
 
 Usage
